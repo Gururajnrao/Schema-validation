@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "hubspec",
+  "type": "object",
+  "properties": {
+    "region": {
+      "type": "string"
+    },
+    "cloud": {
+      "type": "string"
+    },
+    "type": {
+     "type": "string",
+     "maxLength": 8
+    }
+  },
+  "required": ["region", "cloud","type"]
+}
