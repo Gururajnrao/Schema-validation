@@ -1,3 +1,3 @@
-# Python_scripts
+# Schema validation
 
-1. Script to Parse yaml and validate the Schema
+Script to Parse yaml and validate the Schema
